@@ -1,3 +1,11 @@
+# -*- coding: utf-8 -*-
+# @Time : 2020/10/22 20:14
+# @Author : cds
+# @Site : https://github.com/SkyLord2?tab=repositories
+# @Email: chengdongsheng@outlook.com
+# @File : resnet.py
+# @Software: PyCharm
+
 from tensorflow.keras import layers,Model,Sequential
 
 class BasicBlock(layers.Layer):
